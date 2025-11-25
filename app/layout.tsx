@@ -10,9 +10,9 @@ export const metadata = {
  
 const navbar = (
   <Navbar
-    logo={<b>Web3 Developer Docs by TBC</b>}
+    logo={<b>TUM Blockchain Club Documentation</b>}
     logoLink="https://www.tum-blockchain.com/"
-    projectLink="https://github.com/TUM-Blockchain-Club/Web3-developer-Docs"
+    projectLink="https://github.com/TUM-Blockchain-Club/Club-Documentation"
 
     // ... Your additional navbar options
   />
@@ -38,7 +38,7 @@ export default async function RootLayout({ children }: { children: React.ReactNo
         <Layout
           navbar={navbar}
           pageMap={await getPageMap()}
-          docsRepositoryBase="https://github.com/TUM-Blockchain-Club/Web3-developer-Docs"
+          docsRepositoryBase="https://github.com/TUM-Blockchain-Club/Club-Documentation"
           footer={footer}
           // ... Your additional layout options
         >

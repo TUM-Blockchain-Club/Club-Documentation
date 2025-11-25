@@ -1,13 +1,12 @@
-/* eslint-disable */
 export default {
-    //"introduction": "Introduction",
-    "---": {
-        type: "separator",
-    },
-    "creating-your-first-wallet": "First Steps: Creating Your First Wallet",
-    "creating-your-first-web3-website": "Building Your First Web3 Website",
-    "###": {
-        type: "separator",
-    },
-    "developer-resources": "Developer Resources",
+ "introduction": "Introduction",
+  "resources": "Resources",
+  "tutorials": "Tutorials",
+  "education": "Education",
+  "it-and-development": "IT and Development",
+  "community": "Community",
+  "legal-and-finance": "Legal and Finance",
+  "marketing": "Marketing",
+  "industry": "Industry",
+  "external-affairs": "External Affairs"
 } 
