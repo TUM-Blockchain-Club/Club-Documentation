@@ -1,4 +1,4 @@
 export default {
-  "websites": "Websites",
-  "social-media": "Social Media"
+   "social-media": "Social Media",
+   "websites": "Websites"
 }
